@@ -1,2 +1,3 @@
-准备把TPDD那篇paper的源码和数据平面topo的内容都放进来
-emmm......还是等中了再放吧...
+DDoS attack detecion in SDN
+Machine-learning based method with two phase detection. 
+The main purpose is to reduce the communicational overhead when performing detecion.
